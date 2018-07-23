@@ -17,7 +17,7 @@
     $age = $_POST["age"];
     $sexe = $_POST["sexe"];
 
-    if ($sexe == "femme" OR $sexe == "Femme") {
+    if ($sexe == "Féminin" OR $sexe == "féminin") {
         if ( $age >= 21 AND $age <= 40) {
             echo "Bonjour, bienvenue parmi nous!";
         } else {

@@ -17,7 +17,7 @@
     <?php
        $homme = $_POST['H'];
        $licorne = $_POST['L'];
-       $gif = ($gif = $homme) ?  echo '<img src="" alt="">';  ($gif = $licorne) ? echo '<img src="" alt="">' ;
+    //    $gif = ($gif = $homme) ?  echo '<img src="" alt="">';  ($gif = $licorne) ? echo '<img src="" alt="">' ;
     ?>
     
 </body>
